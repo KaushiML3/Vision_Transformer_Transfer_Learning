@@ -24,6 +24,10 @@ Available on datasets like ImageNet-21k and ImageNet-1k.
 
 Performs well for classification, particularly with fine-tuning on smaller datasets.
 
+## Dataset
+
+This dataset contains a diverse range of images featuring various types, styles, and designs of eyeglasses. Its primary objective is to serve as a comprehensive resource for training and evaluating machine learning models aimed at accurately categorizing and classifying different styles and attributes of glasses depicted in images.
+- [Kaggle Link](https://www.kaggle.com/datasets/ashfakyeafi/glasses-classification-dataset)
 
 # Notebooks
 
