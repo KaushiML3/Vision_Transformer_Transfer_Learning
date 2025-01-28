@@ -2,27 +2,27 @@
 
 Vision Transformers (ViTs) have become a leading choice for various computer vision tasks due to their state-of-the-art performance. Among them, some models stand out for transfer learning in different scenarios.
 
-[Git repository](https://github.com/NielsRogge/Vision-Transformer-papers)
-[HuggingFace](https://huggingface.co/docs/transformers/en/model_doc/vit)
+- [Git repository](https://github.com/NielsRogge/Vision-Transformer-papers)
+- [HuggingFace](https://huggingface.co/docs/transformers/en/model_doc/vit)
 
 ## ViT (Vanilla Vision Transformer)
 
 **Description:** 
 
-    Vision Transformers (ViTs) are a type of neural network architecture designed primarily for processing images. Unlike traditional convolutional neural networks (CNNs), which process images in a hierarchical manner, ViTs apply self-attention mechanisms to capture global dependencies between image patches. This allows them to achieve strong performance on various computer vision tasks without relying on convolutional layers. ViTs have gained popularity for their ability to handle long-range dependencies effectively, making them suitable for tasks like image classification, object detection, and segmentation.
+Vision Transformers (ViTs) are a type of neural network architecture designed primarily for processing images. Unlike traditional convolutional neural networks (CNNs), which process images in a hierarchical manner, ViTs apply self-attention mechanisms to capture global dependencies between image patches. This allows them to achieve strong performance on various computer vision tasks without relying on convolutional layers. ViTs have gained popularity for their ability to handle long-range dependencies effectively, making them suitable for tasks like image classification, object detection, and segmentation.
     The original Vision Transformer developed by Google. It divides images into patches, processes them as tokens, and applies transformer layers.
 
 **Best For:** 
 
-    General-purpose vision tasks when large-scale pretraining is available.
+General-purpose vision tasks when large-scale pretraining is available.
 
 **Pre-trained Weights:** 
 
-    Available on datasets like ImageNet-21k and ImageNet-1k.
+Available on datasets like ImageNet-21k and ImageNet-1k.
 
 **Transfer Learning Strength:**
 
-    Performs well for classification, particularly with fine-tuning on smaller datasets.
+Performs well for classification, particularly with fine-tuning on smaller datasets.
 
 
 # Notebooks
