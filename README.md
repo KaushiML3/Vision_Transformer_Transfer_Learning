@@ -23,12 +23,12 @@ Vision Transformers (ViTs) have become a leading choice for various computer vis
 
 1. [vision-transformer-trainer-and-pytorch-lightning]()
    
-        Fine-tune Vision Transformer (ViT) models with PyTorch Lightning, leveraging its flexible and scalable framework for streamlined model training and experimentation.
+   Fine-tune Vision Transformer (ViT) models with PyTorch Lightning, leveraging its flexible and scalable framework for streamlined model training and experimentation.
 
 2. [vision-transforme-with-hugging-face-transformer-and-keras]()
    
-        This notebook includes tools for fine-tuning Vision Transformer (ViT) models using Keras, offering a simple and intuitive interface for building, training, and evaluating models.
+   This notebook includes tools for fine-tuning Vision Transformer (ViT) models using Keras, offering a simple and intuitive interface for building, training, and evaluating models.
 
 3. [vision-transforme-with-pytorch-trainer]()
-        The repository utilizes Lightning Trainer to simplify training workflows, enabling efficient fine-tuning of Vision Transformer (ViT) models with features like automatic checkpointing, logging, and distributed training.
+   The repository utilizes Lightning Trainer to simplify training workflows, enabling efficient fine-tuning of Vision Transformer (ViT) models with features like automatic checkpointing, logging, and distributed training.
 
